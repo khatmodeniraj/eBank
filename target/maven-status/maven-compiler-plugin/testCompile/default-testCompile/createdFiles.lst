@@ -1,0 +1,10 @@
+com\Banking\testCases\BaseClass.class
+com\Banking\pageObjects\HomePage.class
+com\Banking\utilities\XLUtils.class
+com\Banking\listener\listener.class
+com\Banking\pageObjects\LoginPage.class
+com\Banking\utilities\Reporting.class
+com\Banking\testCases\HomePageTest.class
+com\Banking\testCases\LoginDDT.class
+com\Banking\testCases\LoginTest.class
+com\Banking\utilities\ReadConfig.class

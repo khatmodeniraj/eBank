@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 32.766 s <<< FAILURE! - in TestSuite
+LoginDDT(com.Banking.testCases.LoginDDT)  Time elapsed: 2.846 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Banking.testCases.LoginDDT.LoginDDT(LoginDDT.java:44)
+
+addNewCustomer(com.Banking.testCases.HomePageTest)  Time elapsed: 5.542 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.Banking.testCases.HomePageTest.addNewCustomer(HomePageTest.java:65)
+
